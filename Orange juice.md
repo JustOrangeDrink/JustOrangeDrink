@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @JustOrangeDrink
-- 👀 I’m interested in oramge juice
-- 🌱 I’m currently learning how to make orange juice
-- 💞️ I’m looking to collaborate on orange juuce
-- 📫 How to reach me Call my name
